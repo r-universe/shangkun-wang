@@ -5,3 +5,6 @@
 [submodule "OSFD"]
 	path = OSFD
 	url = https://github.com/cran/OSFD
+[submodule "SFDesign"]
+	path = SFDesign
+	url = https://github.com/cran/SFDesign
